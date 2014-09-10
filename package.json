@@ -1,0 +1,29 @@
+{
+  "family": "lufff",
+  "name": "bf-css",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/mazip/bf-css",
+  "author": "mazip",
+  "maintainers": [
+    "mazip"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mazip/bf-css.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "bf-css.js",
+      "bf-css.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
