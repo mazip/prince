@@ -1,4 +1,4 @@
-# bf-css
+# prince
 
 ---
 
@@ -11,12 +11,12 @@ A nice CMD module.
 It is very easy to use this module.
 
 ````html
-<div class="lufff-bf-css">
+<div class="ui-prince">
 </div>
 ````
 
 ```javascript
-seajs.use('bf-css', function(bfCss) {
+seajs.use('prince', function(princecss) {
 
 });
 ```
